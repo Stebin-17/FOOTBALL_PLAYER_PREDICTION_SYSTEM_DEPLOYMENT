@@ -1,0 +1,30 @@
+<html>
+
+<body bgcolor=#a3cfb4>
+
+    <center>
+
+        <h1>  PREDICTION :  </h1>
+    
+    {%if data == 0%}
+    <h1>Defender</h1>  
+    <img src='static\defender.jpg'>  
+
+    {%elif data==1%}
+    <h1>Midfielder</h1>
+    <img src='static\midfielder.jpg'>
+
+
+    {%else%}
+    <h1>Stricker</h1>
+    <img src='static\stricker.jpeg'>
+    {%endif%}
+
+        <br><br>
+    <a href='/'>go back to home page</a>
+
+    </center>
+
+</body>
+
+</html>
