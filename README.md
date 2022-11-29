@@ -29,3 +29,7 @@ UI:
 RESULTANT PAGE:
 ![image](https://user-images.githubusercontent.com/114398468/204463126-4fb390fd-9d0e-4c30-aeae-2d6865f01c44.png)
 
+TKINTER INTERFACE:
+![image](https://user-images.githubusercontent.com/114398468/204463541-e0afae9b-285e-4c45-b585-4859596a7302.png)
+
+
